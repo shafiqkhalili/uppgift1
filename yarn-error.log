@@ -2,7 +2,7 @@ Arguments:
   /Users/shafighkhalili/.nvm/versions/node/v16.6.1/bin/node /usr/local/Cellar/yarn/1.22.10/libexec/bin/yarn.js install
 
 PATH: 
-  /Users/shafighkhalili/.nvm/versions/node/v16.6.1/bin:/Users/shafighkhalili/Library/Android/sdk/platform-tools:/Users/shafighkhalili/Library/Android/sdk/platform-tools:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin
+  /Users/shafighkhalili/.nvm/versions/node/v16.6.1/bin:/Users/shafighkhalili/.nvm/versions/node/v16.6.1/bin:/Users/shafighkhalili/Library/Android/sdk/platform-tools:/Users/shafighkhalili/Library/Android/sdk/platform-tools:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Users/shafighkhalili/.nvm/versions/node/v16.6.1/bin:/Users/shafighkhalili/Library/Android/sdk/platform-tools
 
 Yarn version: 
   1.22.10
